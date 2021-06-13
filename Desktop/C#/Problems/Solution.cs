@@ -1,7 +1,9 @@
 using System;
 
-// Used namespace of problems as that was my testing file for these solutions
-// I include the zip in the email to the entir .NET folder.
+// Used namespace of problems as that was my namespace for the project and used a seperate
+// file in order to unit test these solutions.
+// I included the repo in the email to the entire .NET project if you want to see
+// how I tested my code.
 namespace Problems
 {
     public class Solution
