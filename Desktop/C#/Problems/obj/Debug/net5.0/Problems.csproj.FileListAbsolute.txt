@@ -1,0 +1,16 @@
+C:\Users\14403\Desktop\C#\Problems\bin\Debug\net5.0\Problems.exe
+C:\Users\14403\Desktop\C#\Problems\bin\Debug\net5.0\Problems.deps.json
+C:\Users\14403\Desktop\C#\Problems\bin\Debug\net5.0\Problems.runtimeconfig.json
+C:\Users\14403\Desktop\C#\Problems\bin\Debug\net5.0\Problems.runtimeconfig.dev.json
+C:\Users\14403\Desktop\C#\Problems\bin\Debug\net5.0\Problems.dll
+C:\Users\14403\Desktop\C#\Problems\bin\Debug\net5.0\ref\Problems.dll
+C:\Users\14403\Desktop\C#\Problems\bin\Debug\net5.0\Problems.pdb
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\Problems.csproj.AssemblyReference.cache
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\Problems.AssemblyInfoInputs.cache
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\Problems.AssemblyInfo.cs
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\Problems.csproj.CoreCompileInputs.cache
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\Problems.dll
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\ref\Problems.dll
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\Problems.pdb
+C:\Users\14403\Desktop\C#\Problems\obj\Debug\net5.0\Problems.genruntimeconfig.cache

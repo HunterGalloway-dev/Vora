@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\14403\\Desktop\\C#\\Problems\\Problems.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\14403\\Desktop\\C#\\Problems\\Problems.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\14403\\Desktop\\C#\\Problems\\Problems.csproj",
+        "projectName": "Problems",
+        "projectPath": "c:\\Users\\14403\\Desktop\\C#\\Problems\\Problems.csproj",
+        "packagesPath": "C:\\Users\\14403\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\14403\\Desktop\\C#\\Problems\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14403\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
